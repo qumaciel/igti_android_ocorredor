@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OCorredor</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="iniciada">Iniciada:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="altitude">Altitude:</string>
+    <string name="tempo_decorrido">Tempo Decorrido:</string>
+    <string name="inicia">Iniciar</string>
+    <string name="para">Parar</string>
+    <string name="gps_habilitado">GPS Habilitado</string>
+    <string name="gps_desabilitado">GPS Desabilitado</string>
+    <string name="cell_text">Corrida em %1$s</string>
+    <string name="nova_corrida">Nova Corrida</string>
+    <string name="mapa">Mapa</string>
+    <string name="corrida_inicia">Início da Corrida</string>
+    <string name="corrida_iniciada_em_format">Corrida iniciada em %s</string>
+    <string name="corrida_finaliza">Fim da Corrida</string>
+    <string name="corrida_finalizada_em_format">Corrida finalizada em %s</string>
+
+</resources>
